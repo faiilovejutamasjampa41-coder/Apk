@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Tilt Greeting Assistant</string>
+    <string name="accessibility_description">Reads the visible Tilt room UI to detect viewer names and, only when Auto-greet is explicitly enabled, uses the visible chat controls. It does not bypass login, anti-bot checks, or private APIs.</string>
+</resources>
